@@ -18,5 +18,20 @@
   A imagem acima, faz referência a construção das colunas onde coloquei em tela as fotos e conteudos das mulheres que escolhi. Tendo isso como base, desenvolva mais duas colunas com pelo menos três fotos e conteudos complementares destas fotos. As fotos e os conteudos devem ter o comportamento responsivo, seguindo a lógica do site!
 </p>
 
+<h2>Número 2</h2>
+<p>  
+  
+  Desenvolva pelo menos mais uma página, com o assunto "Sobre". Aplique os conhecimentos utilizados em grid system do BS para construir a página. Lembre-se, pode-se utilizar o display flex, não há nenhum problema nisso. O local onde ficará o menu de navegação fica por sua conta.
+  
+</p>
+
+<h2>Número 3</h2>
+<p>  
+
+  
+  
+  Desenvolva uma sessão de comentários abaixo dos últimos conteudos mostrados na tela principal. Pode-se utilizar display flex e Grid system para axiliar a demanda. A única coisa que tem de ser feita é utilizar unica e exclusivamente o BS. 
+  
+</p>
 
 
