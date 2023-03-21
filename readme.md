@@ -13,7 +13,10 @@
 
 <h2>Número 1</h2>
 <p>
-  Desenvolva mais uma coluna como aquela com o contéudo de imagem.
+  ![Screenshot 2023-03-21 075024](https://user-images.githubusercontent.com/95233509/226585576-61845058-5163-4698-af51-c1db20050431.png)
+  
+  A imagem acima, faz referência a construção das colunas onde coloquei em tela as fotos e conteudos das mulheres que escolhi. Tendo isso como base, desenvolva mais duas colunas com pelo menos três fotos e conteudos complementares destas fotos. As fotos e os conteudos devem ter o comportamento responsivo, seguindo a lógica do site!
 </p>
+
 
 
