@@ -9,6 +9,11 @@
   Agora, como conversado no final da aula passada sobre alguns exércicios a mais, ou deixar aqui alguns desafios, para que vocês consigam soluciona-los e por fim, entender de uma vez por todos esse maldito "Sistema de grid".
 </p>
 
-<h1>Exercicíos!</h1>
+<h1 align="center">Exercicíos!</h1>
+
+<h2>Número 1</h2>
+<p>
+  Desenvolva mais uma coluna como aquela com o contéudo de imagem.
+</p>
 
 
